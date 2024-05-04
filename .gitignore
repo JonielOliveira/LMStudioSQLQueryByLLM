@@ -25,3 +25,7 @@ replay_pid*
 /LMStudioSQLQueryByLLM/nbproject/private/
 /LMStudioSQLQueryByLLM/build/
 /LMStudioSQLQueryByLLM/dist/
+
+# folder I don't want to ignore
+!LMStudioSQLQueryByLLM/lib/
+
