@@ -27,5 +27,5 @@ replay_pid*
 /LMStudioSQLQueryByLLM/dist/
 
 # folder I don't want to ignore
-!/LMStudioSQLQueryByLLM/lib/
+!/LMStudioSQLQueryByLLM/lib/*.jar
 
